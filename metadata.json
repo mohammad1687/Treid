@@ -1,0 +1,6 @@
+{
+  "name": "TradeMind AI - Pro Trading Analyst",
+  "description": "Professional AI trading analyst with custom active knowledge base, multi-model API verification, chart vision analysis, and ChatGPT-style sleek blue interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
